@@ -1,2 +1,2 @@
 # AI-Agents-Study-Material
-This repository contains study  material including my personal hadnwritten notes on AI Agents
+This repository contains study  material including my personal handwritten notes on AI Agents
